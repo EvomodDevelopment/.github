@@ -1,4 +1,4 @@
-# Aetherium Development
+# EvoMod Development
 
 ## 👋 Hello!
 ### Welcome to EvoMod Development's GitHub Organization!
